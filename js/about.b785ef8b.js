@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,a,i){"use strict";i.r(a);var e=function(){var t=this,a=t.$createElement,i=t._self._c||a;return i("div",{staticClass:"about"},[i("h1",[t._v("Tarea: traducir sitio")]),i("p",[t._v("This site is made with Vuejs and "),i("b-icon",{attrs:{icon:"heart-fill"}})],1)])},s=[],n=i("2877"),r={},u=Object(n["a"])(r,e,s,!1,null,null,null);a["default"]=u.exports}}]);
-//# sourceMappingURL=about.b785ef8b.js.map
